@@ -1,5 +1,5 @@
 # 3D Football
-A 3D football game made in Unity
+A 3D football game for Windows made in Unity
 
 ### Unity Version
 2021.3.7f1
@@ -15,3 +15,10 @@ A 3D football game made in Unity
 `tab` : Reset ball \
 `esc` : Quit game
  
+### Installation instructions
+Download and extract [the zip file](https://github.com/Ankit-Saha-2003/3d-football/archive/refs/heads/main.zip) to a folder of your choice
+
+Run `3d-football.exe` to play the game
+
+Windows Defender might warn you about potential malware, but do not worry. This game is completely safe. Click on More info > Run anyway 
+
