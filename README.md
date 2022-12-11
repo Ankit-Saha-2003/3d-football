@@ -12,5 +12,6 @@ A 3D football game made in Unity
 :arrow_down: or `s` : Move backward \
 `space` : Dribble \
 `rshift` : Shoot \
-`tab` : Reset ball
+`tab` : Reset ball \
+`esc` : Quit game
  
