@@ -10,6 +10,7 @@ A 3D football game made in Unity
 :arrow_right: or `d` : Move right \
 :arrow_up: or `w` : Move forward \
 :arrow_down: or `s` : Move backward \
-`space` : Dribble
-`rshift` : Shoot
+`space` : Dribble \
+`rshift` : Shoot \
+`tab` : Reset ball
  
